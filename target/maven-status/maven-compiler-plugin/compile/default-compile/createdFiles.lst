@@ -1,0 +1,4 @@
+domain\User.class
+mappers\UserMapper.class
+model\UserCommand.class
+mappers\UserMapperImpl.class
